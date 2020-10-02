@@ -1,0 +1,1 @@
+To open the java docs html, click on the "index.html" file that is present inside of this folder. 
